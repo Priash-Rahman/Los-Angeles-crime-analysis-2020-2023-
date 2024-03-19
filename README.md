@@ -4,7 +4,7 @@
 
 # Los Angeles crime analysis (2020-2023)
 
-### Dashboard Link : https://www.novypro.com/project/navigating-the-urban-landscape---decoding-los-angeles-crime-trends-2020--2023--power-bi
+### Dashboard Link :[ https://www.novypro.com/project/navigating-the-urban-landscape---decoding-los-angeles-crime-trends-2020--2023--power-bi](https://www.novypro.com/project/navigating-the-urban-landscape---decoding-los-angeles-crime-trends-2020--2023--power-bi)
 
 ## Problem Statement
 
